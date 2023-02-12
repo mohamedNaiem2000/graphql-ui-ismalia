@@ -1,7 +1,6 @@
 {
   "name": "graphql",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,6 +15,16 @@
     "express-graphql": "^0.12.0",
     "graphql": "^16.6.0",
     "jsonwebtoken": "^9.0.0",
-    "mongoose": "^6.9.0"
-  }
+    "mongoose": "^6.9.0",
+    "nodemon": "^2.0.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedNaiem2000/graphql-ui-ismalia.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mohamedNaiem2000/graphql-ui-ismalia/issues"
+  },
+  "homepage": "https://github.com/mohamedNaiem2000/graphql-ui-ismalia#readme",
+  "description": ""
 }
